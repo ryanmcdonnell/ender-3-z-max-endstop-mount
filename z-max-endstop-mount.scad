@@ -8,14 +8,14 @@ difference() {
     }
   
   translate([8,10,-1])
-    cylinder(7,d=4);
+    cylinder(7,d=4.5);
   translate([27,10,-1])
-    cylinder(7,d=4);
+    cylinder(7,d=4.5);
   
   translate([41,16,-1])
-    cylinder(7,d=2.6);
+    cylinder(7,d=3.25);
   translate([56.5,16,-1])
-    cylinder(7,d=2.6);
+    cylinder(7,d=3.25);
   
   translate([40.5,2,2])
     cube([16,6,4]);
